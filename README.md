@@ -1,1 +1,1 @@
-# goit
+# Educational Repository
